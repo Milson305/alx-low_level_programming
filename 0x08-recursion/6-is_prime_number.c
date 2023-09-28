@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * is_prime_number - says if an integer is a prime number or not
  * @a: same number as n
